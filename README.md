@@ -1,4 +1,4 @@
-# Interactive Katacoda Scenarios
+# Interactive Katacoda Scenarios (by JD Codersteinersky)
 
 [![](http://shields.katacoda.com/katacoda/jdl1048/count.svg)](https://www.katacoda.com/jdl1048 "Get your profile on Katacoda.com")
 
